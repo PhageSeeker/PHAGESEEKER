@@ -1,5 +1,5 @@
 # **PHAGESEEKER**
-## * *A novel tool for exploring phages in bacterial genomes.* *
+## *A novel tool for exploring phages in bacterial genomes.*
 
 ### **DISCLAIMER!**
 
