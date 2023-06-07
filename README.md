@@ -3,7 +3,7 @@
 
 ### **DISCLAIMER!**
 
-The code for PhageSeeker was developed as part of a project carried out during the course of Microbial Metagenomics at the University of Padova. The project was supervised by Professor Stefano Campanaro and Dr. Esteban Orellana. The information, methodologies, and results presented in this project are based on research conducted by Paolo Marchi, Kathleen Araujo and Claudia Nomagugu Moyo.
+This code was developed as part of a project carried out during the course of Microbial Metagenomics (Molecular Biology master degree) at the University of Padova. The project was supervised by Professor Stefano Campanaro and Dr. Esteban Orellana. The information, methodologies, and results presented in this project are based on research conducted by Paolo Marchi, Kathleen Araujo and Claudia Nomagugu Moyo.
 
 
 ### **INTRODUCTION**
