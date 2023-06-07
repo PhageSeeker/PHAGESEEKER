@@ -1,4 +1,4 @@
-#PHAGESEEKER: A Novel Tool for Exploring Phages in Bacterial Genomes (hashtag bc this is our main header..)
+#PHAGESEEKER: A Novel Tool for Exploring Phages in Bacterial Genomes (hashtag because this is our main header..)
 
 Phages, (short for bacteriophages), are viruses that specifically infect and replicate within bacterial cells. They play a crucial role in shaping microbial ecosystems by controlling bacterial populations, transferring genetic material between bacteria, and influencing bacterial evolution.
 As interest in phage research continues to grow, the need for efficient tools to explore phages within bacterial genomes has become paramount.
