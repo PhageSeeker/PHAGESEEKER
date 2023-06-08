@@ -24,7 +24,7 @@ For using our script, you will need:
   (for installing: pip install packagename)
   
   ### **HOW TO USE THE SCRIPT**
-  
+  ```python phageseeker.py```
   
  
 
