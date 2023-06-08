@@ -20,6 +20,7 @@ For using our script, you will need:
   - panda package
   - os package
   - subprocess package
+  - argparse package
   (for installing: pip install packagename)
   
   ### **HOW TO USE THE SCRIPT**
