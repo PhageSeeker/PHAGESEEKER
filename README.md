@@ -1,3 +1,4 @@
+![image](https://github.com/claudianomagugumoyo/PHAGESEEKER/assets/135859146/4655b267-10cb-49ee-a99f-8b7a6f9e25bb)
 # **PHAGESEEKER**
 ## *A novel tool for exploring phages in bacterial genomes.*
 
@@ -15,10 +16,14 @@ For using our script, you will need:
 - CRISPR arrays files of the bacteria you want to analyse in GFF format obtained from CRISPRDetect:
   Here is a tutorial on how to perform this analyse https://scribehow.com/shared/How_to_use_CRISPRDetect_website__S5Uav-uaQIS7ViwAgSReWw
   
-- Python version 
-  panda
-  numpy
-  bio blast
+- Python version 3.10 or further
+  - panda package
+  - os package
+  - subprocess package
+  (for installing: pip install packagename)
+  
+  ### **HOW TO USE THE SCRIPT**
+  
   
  
 
