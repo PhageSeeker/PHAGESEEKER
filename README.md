@@ -13,8 +13,8 @@ Phages, (short for bacteriophages), are viruses that specifically infect and rep
 
 For using our script, you will need:
 
-- CRISPR arrays files of the bacteria you want to analyse in GFF format obtained from CRISPRDetect:
-  Here is a tutorial on how to perform this analyse https://scribehow.com/shared/How_to_use_CRISPRDetect_website__S5Uav-uaQIS7ViwAgSReWw
+- CRISPR arrays files of the bacteria you want to analyse in GFF format obtained from CRISPRDetect
+  - Here is a tutorial on how to perform this analyse https://scribehow.com/shared/How_to_use_CRISPRDetect_website__S5Uav-uaQIS7ViwAgSReWw
   
 - Python version 3.10 or further
   - panda package
