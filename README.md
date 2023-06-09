@@ -22,9 +22,16 @@ For using our script, you will need:
   - subprocess package
   - argparse package
   (for installing: pip install packagename)
+  -Database file with the genomes of phages (phages.fa)
   
   ### **HOW TO USE THE SCRIPT**
-  ```python phageseeker.py```
   
- 
+  -Create a folder containing all the CRISPRDetect arrays that you want to run the similarity search
+   
+  To launch our script type this command on the terminal:
+  
+  ```python PhageSeeker.py -c /DirectoryofCRISPRarraysFolder -p /Directoryofphages.fa -o TEST(name your results file)```
+  
+  
+  
 
