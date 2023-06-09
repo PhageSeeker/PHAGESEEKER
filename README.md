@@ -22,7 +22,7 @@ For using our script, you will need:
   - subprocess package
   - argparse package
   (for installing: pip install packagename)
-  -Database file with the genomes of phages (phages.fa)
+  - Database file with the genomes of phages (phages.fa)
   
   ### **HOW TO USE THE SCRIPT**
   
